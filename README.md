@@ -1,2 +1,2 @@
-# pinch
-🤏 site analytics and event tracking
+# 🤏 pinch
+Site analytics and event tracking
